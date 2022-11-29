@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Calculadora",
+    "price": 1000,
+    "thumbnail": "image.pgn",
+    "id": 1
+  },
+  {
+    "title": "Cafetera",
+    "price": 500,
+    "thumbnail": "image.pgn",
+    "id": 2
+  },
+  {
+    "title": "Licuadora",
+    "price": 300,
+    "thumbnail": "image.pgn",
+    "id": 3
+  }
+]
