@@ -1,0 +1,21 @@
+{
+  "name": "desafio4",
+  "version": "1.0.0",
+  "description": "Desafio API RESTful",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API",
+    "RESTful",
+    "CODERHOUSE"
+  ],
+  "author": "Nico",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
